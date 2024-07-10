@@ -13,7 +13,7 @@ Utilizando diferentes fontes, pesos e cores. 😀
 ## 🖥 Tecnologias 
 
 - HTML
-- CSSS
+- CSS
 - Git e GitHub
 
  ## 📖 O que eu aprendi: 
