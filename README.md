@@ -6,7 +6,8 @@ Criação de uma página inicial de portfolio com o básico de HTML e CSS. 💻
 
 Utilizando diferentes fontes, pesos e cores. 😀
 
-![image](https://github.com/GabrielSantanaCarneiro/Portfolio-Alura/assets/108038950/25080efc-a90f-4f8c-9c9a-3780ecc0a643)
+![image](![image](https://github.com/user-attachments/assets/66a02df1-af16-46df-bc8c-18a1bfd3fdfb)
+
 
 ## Link para acessar: https://gabrielsantanacarneiro.github.io/Portfolio-Alura/
 
