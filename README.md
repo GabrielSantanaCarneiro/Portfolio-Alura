@@ -9,7 +9,7 @@ Utilizando diferentes fontes, pesos e cores. 😀
 ![image](![image](https://github.com/user-attachments/assets/66a02df1-af16-46df-bc8c-18a1bfd3fdfb)
 
 
-## Link para acessar: https://gabrielsantanacarneiro.github.io/Portfolio-Alura/
+## Link para acessar: [https://gabrielsantanacarneiro.github.io/Portfolio-Alura/](https://gabrielsantanacarneiro.github.io/Portfolio-Alura/)
 
 ## 🖥 Tecnologias 
 
